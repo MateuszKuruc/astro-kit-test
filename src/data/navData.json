@@ -1,18 +1,18 @@
 [
   {
-    "key": "Home",
+    "key": "Strona główna",
     "url": "/"
   },
   {
-    "key": "About Us",
+    "key": "O nas",
     "url": "/about/"
   },
   {
-    "key": "Projects",
+    "key": "Portfolio",
     "url": "/projects/"
   },
   {
-    "key": "Reviews",
+    "key": "Opinie",
     "url": "/reviews/"
   },
   {
